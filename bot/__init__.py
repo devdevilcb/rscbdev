@@ -357,7 +357,7 @@ FUSERNAME = environ.get('FUSERNAME', 'False').lower() == 'true'
 FSUB = environ.get('FSUB', 'False').lower() == 'true'
 #FSUB_CHANNEL_ID = int(environ.get('FSUB_CHANNEL_ID', ''))
 FSUB_BUTTON_NAME = environ.get('FSUB_BUTTON_NAME', 'Join Channel')
-CHANNEL_USERNAME = environ.get('CHANNEL_USERNAME', 'hexafreinds')
+CHANNEL_USERNAME = environ.get('CHANNEL_USERNAME', 'cinemaa_boxoffice')
 # ======================================================================
 
 
@@ -453,10 +453,10 @@ UPDATE_EVERYTHING = environ.get('UPDATE_EVERYTHING', 'False').lower() == 'true'
 
 
 # ============================== UI ====================================
-AUTHOR_NAME = environ.get('AUTHOR_NAME', 'Maheshsirop')
-AUTHOR_URL = environ.get('AUTHOR_URL', 'https://t.me/maheshsirop')
+AUTHOR_NAME = environ.get('AUTHOR_NAME', 'THE GRT RISHI')
+AUTHOR_URL = environ.get('AUTHOR_URL', 'https://t.me/rishisin07')
 DRIVE_SEARCH_TITLE = environ.get('DRIVE_SEARCH_TITLE', 'Drive Search')
-GD_INFO = environ.get('GD_INFO', 'By @maheshsirop')
+GD_INFO = environ.get('GD_INFO', 'By @rishisin07')
 PROG_FINISH = environ.get('PROG_FINISH', '⬤')
 PROG_UNFINISH = environ.get('PROG_UNFINISH', '○')
 SOURCE_LINK_TITLE = environ.get('SOURCE_LINK_TITLE', 'Source Link')
